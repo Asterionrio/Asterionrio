@@ -80,8 +80,30 @@
 <img src="https://www.gifki.org/data/media/344/luna-animatsionnaya-kartinka-0030.gif" align="right" width="60" style="margin-left: 15px;" /><div id="header" align="center"><p>Zenless Zone Zero, Genshin Impact , Mobile Ligends: Bang Bang, Terraria, bravl stars, slime rancher, stardew vallery, no im not a numan, dont starve classic\together, thats not my neighbor, 60 Seconds, Cult of the Lamb, Bendy and the Ink Machine, undertale,  Fran Bow,  S.T.A.L.K.E.R., Five Nights at Freddy's, OMORI,  Friday Night Funkin', Poppy Playtime.</p> </div>
 <br clear="right"/> 
 
+<img src="https://www.gifki.org/data/media/344/luna-animatsionnaya-kartinka-0045.gif" align="left" width="50" style="margin-right: 15px;" />
+
+<p> музыка?.. мм.. 
+  любимые исполнители:
+  Mindless Self Indulgence, Электрофорез, Буерак, CENTIRISE, NASTYONA, And One, Mother Mother, Ghost and Pals, ЩЕНКИ, Иван Курочкин.
+
+  просто достойные упомианния :
+ <img src="https://www.gifki.org/data/media/344/luna-animatsionnaya-kartinka-0030.gif" align="right" width="60" style="margin-left: 15px;" /><div id="header" align="center"> Валентин Скрыкало, Self, the Smiths, depeche mode, London After Midnight, Boy Harsher, алена швец., Холодный звонок, Сова, ssshhhiiittt!, Fty,  la noom, KMFDM, Mitski, Vandalism, давай на ты, ночь. улица. фонарь., grimes, IAMX, osthen, юность грома, Molchat doma
+, Miracle Misical, мы, berenika, полярность, MARETU, UNSEEN TIDER, Ashbury Heights, mr.Kitty, Alec Koff, Дайте танк(!) IC3PEAK, DECO*27, </p>
+<br clear="right"/> 
+<div id="header" align="center"> <a target="_blank" rel="noopener noreferrer" href=""><img src="https://www.gifki.org/data/media/344/luna-animatsionnaya-kartinka-0030.gif" style="max-width: 100%;"></a> 
+  
+из книг могу посоветовать только вмечатляющую антиутопию IHNMAIMS.
+  </div>
+
+наше время почти подошло к концу, ты хочешь знать что-то еще ?
 
 <div id="header" align="center">
   <img src="https://www.gifki.org/data/media/280/zvezda-animatsionnaya-kartinka-0076.gif" width="900"/>
 </div>
-наше время почти подошло к концу. 
+почему я не люблю зеленый и так сильно его избегаю ? у меня <a href="https://www.cnshb.ru/AKDiL/0049/base/RD/001142.shtm#:~:text=%D0%94%D0%95%D0%99%D0%A2%D0%95%D0%A0%D0%90%D0%9D%D0%9E%D0%9C%D0%90%D0%9B%D0%98%D0%AF%20(deuteranomalia;%20%D0%B4%D0%B5%D0%B9%D1%82%D0%B5%D1%80%2D%20+%20%D0%B0%D0%BD%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D1%8F)%20%E2%80%94%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0,%D1%86%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D1%8F%2C%20%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D1%83%D1%8E%D1%89%D0%B0%D1%8F%D1%81%D1%8F%20%D1%81%D0%BB%D0%B0%D0%B1%D0%BE%D1%81%D1%82%D1%8C%D1%8E%20%D0%B2%D0%BE%D1%81%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F%20%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%86%D0%B2%D0%B5%D1%82%D0%B0.">дейтераномалия</a>, я плохо воспринимаю зеленые и красные цвета. 
+
+---
+
+надеюсь утолил ваше любопытство. 
+<div id="header" align="center">
+  <img src="https://allwebs.ru/images/2026/04/22/4d6e5669e445b0f9ed2705a3e31ed05d.fr.jpeg" width="500"/>
