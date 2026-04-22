@@ -52,6 +52,8 @@
   
 ---
 <div id="header" align="center">
+  я последний из вида сидериан. это больше проклятье чем привилегия. я медленно превращаюсь в космическую массу и никак не могу на это повлиять.
+
   
  <a target="_blank" rel="noopener noreferrer" href=""><img src="https://www.gifki.org/data/media/280/zvezda-animatsionnaya-kartinka-0164.gif" style="max-width: 100%;"></a> istj-t\melancholic\5w4\541
   
@@ -61,7 +63,6 @@
  
  <a href="https://github.com/hiessoovig">Хиесом</a> и  <a href="https://github.com/zefranar">Зефом</a>
    </div> 
-я последний из вида сидериан. это больше проклятье чем привилегия. я медленно превращаюсь в космическую массу и никак не могу на это повлиять.
 
  еще что-то ?.. другие миры за пределами вечных звезд и мертвых лун... ?
 
@@ -72,7 +73,9 @@
   Identity V, Cookie Run: Kingdom, Honkai: Star Rail, IHNMAIMS</p>
 
 <br clear="left"/> 
+<div id="header" align="center">
  <p> other games :</p> 
+</div>
 
 <img src="https://www.gifki.org/data/media/344/luna-animatsionnaya-kartinka-0030.gif" align="right" width="60" style="margin-left: 15px;" /><div id="header" align="center"><p>Zenless Zone Zero, Genshin Impact , Mobile Ligends: Bang Bang, Terraria, bravl stars, slime rancher, stardew vallery, no im not a numan, dont starve classic\together, thats not my neighbor, 60 Seconds, Cult of the Lamb, Bendy and the Ink Machine, undertale,  Fran Bow,  S.T.A.L.K.E.R., Five Nights at Freddy's, OMORI,  Friday Night Funkin', Poppy Playtime.</p> </div>
 <br clear="right"/> 
