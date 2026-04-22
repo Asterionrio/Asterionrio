@@ -65,7 +65,14 @@
 
  еще что-то ?.. другие миры за пределами вечных звезд и мертвых лун... ?
 
-<div style="float: left;"> <a target="_blank" rel="noopener noreferrer" href=""><img src="https://www.gifki.org/data/media/344/luna-animatsionnaya-kartinka-0045.gif" style="max-width: 100%;"></a> примечательные для меня : Identity V, Cookie Run: Kingdom, Honkai: Star Rail, IHNMAIMS</div>
+<img src="https://www.gifki.org/data/media/344/luna-animatsionnaya-kartinka-0045.gif" align="left" width="50" style="margin-right: 15px;" />
+
+<p> Наиболее примечательные для меня : 
  
- </div> </p> <p align="right">other : 
-  games : Zenless Zone Zero, Genshin Impact , Mobile Ligends: Bang Bang, Terraria, bravl stars, slime rancher, stardew vallery, no im not a numan, dont starve together, thats not my neighbor, <img src="https://www.gifki.org/data/media/344/luna-animatsionnaya-kartinka-0030.gif" style="max-width: 100%;"></a>  </div> </p>
+  Identity V, Cookie Run: Kingdom, Honkai: Star Rail, IHNMAIMS</p>
+
+<br clear="left"/> 
+ <p> other games :</p> 
+
+<img src="https://www.gifki.org/data/media/344/luna-animatsionnaya-kartinka-0030.gif" align="right" width="60" style="margin-left: 15px;" /><div id="header" align="center"><p>Zenless Zone Zero, Genshin Impact , Mobile Ligends: Bang Bang, Terraria, bravl stars, slime rancher, stardew vallery, no im not a numan, dont starve classic\together, thats not my neighbor, 60 Seconds, Cult of the Lamb, Bendy and the Ink Machine, undertale,  Fran Bow,  S.T.A.L.K.E.R., Five Nights at Freddy's, OMORI,  Friday Night Funkin', Poppy Playtime.</p> </div>
+<br clear="right"/> 
