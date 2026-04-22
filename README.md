@@ -106,6 +106,9 @@
 
 надеюсь утолил ваше любопытство. 
 
----
-product_video:  https://youtu.be/f_dxSmOZfGw?si=QJTYDJ7U59tspkFT
----
+  <img src="GreenhousePress.gif" width="700"/>
+
+p.s  так же оставлю здесь ссылку на  <a href="https://ru.pronouns.page/@AsterionRio">мою каточку в pronouns</a> (работает с впн онли.) 
+
+прощай, прекрасный путник.
+<div id="header" align="center"> <a target="_blank" rel="noopener noreferrer" href=""><img src="https://www.gifki.org/data/media/344/luna-animatsionnaya-kartinka-0030.gif" style="max-width: 100%;"></a> 
