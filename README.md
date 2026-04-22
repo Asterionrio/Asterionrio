@@ -79,3 +79,9 @@
 
 <img src="https://www.gifki.org/data/media/344/luna-animatsionnaya-kartinka-0030.gif" align="right" width="60" style="margin-left: 15px;" /><div id="header" align="center"><p>Zenless Zone Zero, Genshin Impact , Mobile Ligends: Bang Bang, Terraria, bravl stars, slime rancher, stardew vallery, no im not a numan, dont starve classic\together, thats not my neighbor, 60 Seconds, Cult of the Lamb, Bendy and the Ink Machine, undertale,  Fran Bow,  S.T.A.L.K.E.R., Five Nights at Freddy's, OMORI,  Friday Night Funkin', Poppy Playtime.</p> </div>
 <br clear="right"/> 
+
+
+<div id="header" align="center">
+  <img src="https://www.gifki.org/data/media/280/zvezda-animatsionnaya-kartinka-0076.gif" width="900"/>
+</div>
+наше время почти подошло к концу. 
