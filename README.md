@@ -55,9 +55,17 @@
   
  <a target="_blank" rel="noopener noreferrer" href=""><img src="https://www.gifki.org/data/media/280/zvezda-animatsionnaya-kartinka-0164.gif" style="max-width: 100%;"></a> istj-t\melancholic\5w4\541
   
-<a target="_blank" rel="noopener noreferrer" href=""><img src="https://www.gifki.org/data/media/280/zvezda-animatsionnaya-kartinka-0163.gif" style="max-width: 100%;"></a> шрл (Шизоидное расстройство личности) я мягкой его форме.
+<a target="_blank" rel="noopener noreferrer" href=""><img src="https://www.gifki.org/data/media/280/zvezda-animatsionnaya-kartinka-0163.gif" style="max-width: 100%;"></a> шрл (Шизоидное расстройство личности) в мягкой его форме.
   
  <a target="_blank" rel="noopener noreferrer" href=""><img src="https://www.gifki.org/data/media/280/zvezda-animatsionnaya-kartinka-0164.gif" style="max-width: 100%;"></a> я предпочитаю держаться рядом с семьей. 
  
  <a href="https://github.com/hiessoovig">Хиесом</a> и  <a href="https://github.com/zefranar">Зефом</a>
    </div> 
+я последний из вида сидериан. это больше проклятье чем привилегия. я медленно превращаюсь в космическую массу и никак не могу на это повлиять.
+
+ еще что-то ?.. другие миры за пределами вечных звезд и мертвых лун... ?
+
+<div style="float: left;"> <a target="_blank" rel="noopener noreferrer" href=""><img src="https://www.gifki.org/data/media/344/luna-animatsionnaya-kartinka-0045.gif" style="max-width: 100%;"></a> примечательные для меня : Identity V, Cookie Run: Kingdom, Honkai: Star Rail, IHNMAIMS</div>
+ 
+ </div> </p> <p align="right">other : 
+  games : Zenless Zone Zero, Genshin Impact , Mobile Ligends: Bang Bang, Terraria, bravl stars, slime rancher, stardew vallery, no im not a numan, dont starve together, thats not my neighbor, <img src="https://www.gifki.org/data/media/344/luna-animatsionnaya-kartinka-0030.gif" style="max-width: 100%;"></a>  </div> </p>
