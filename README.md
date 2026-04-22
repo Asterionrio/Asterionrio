@@ -105,5 +105,7 @@
 ---
 
 надеюсь утолил ваше любопытство. 
-<div id="header" align="center">
-  <img src="https://allwebs.ru/images/2026/04/22/4d6e5669e445b0f9ed2705a3e31ed05d.fr.jpeg" width="500"/>
+
+---
+product_video:  https://youtu.be/f_dxSmOZfGw?si=QJTYDJ7U59tspkFT
+---
