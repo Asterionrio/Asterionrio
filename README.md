@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://www.gifki.org/data/media/134/razdelitelnaya-liniya-animatsionnaya-kartinka-0125.gif" width="1000"/>
 
-<a target="_blank" rel="noopener noreferrer" href=""><img src="https://www.gifki.org/data/media/280/zvezda-animatsionnaya-kartinka-0161.gif" style="max-width: 100%;"></a> > <em> DNI :[ <a href="https://dni-criteria.carrd.co/">basic</a>] , нормисы , ярые фанаты гач (хойо в особенности) , меньше 14 лет , чсвшники , те кто не слышит первых 2 предупреждений , дети из подвала <a href="https://github.com/zefranar">Зефа</a> , фанаты пейринга Джозкарлы из Identity V , мультишипперы + люди пывтающиеся втереть что полиамония - нормально. нормализация вредных привычек , нормализация абьюза (и любовь к абьюз пейрам) <em> 
+<a target="_blank" rel="noopener noreferrer" href=""><img src="https://www.gifki.org/data/media/280/zvezda-animatsionnaya-kartinka-0161.gif" style="max-width: 100%;"></a> > <em> DNI :[ <a href="https://dni-criteria.carrd.co/">basic</a>] , нормисы , ярые фанаты гач (хойо в особенности) , меньше 14 лет , чсвшники , те кто не слышит первых 2 предупреждений , дети из подвала <a href="https://github.com/zefranar">Зефа</a> , фанаты пейринга Джозкарлы из Identity V , мультишипперы + люди пывтающиеся втереть что полиаморния - нормально. нормализация вредных привычек , нормализация абьюза (и любовь к абьюз пейрам) <em> 
 </div> 
   
 ---
