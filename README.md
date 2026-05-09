@@ -12,6 +12,9 @@
 беги, пока видишь свет их путеводный, ведь никогда не знаешь когда он вздумает тебя подвести
 
 и покинуть мир навсегда, оставшись лишь воспоминанием, отголоской в пустотной массе космической ткани. 
+
+<br> <img src="https://komarev.com/ghpvc/?username=Asterionrio&style=for-the-badge&color=5563D7" alt="Profile Views"/>
+
 </div> 
 
 <div id="header" align="center">
