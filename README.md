@@ -1,4 +1,8 @@
 <div id="header" align="center">
+    <a target="_blank" rel="noopener noreferrer" href=""><img src="https://github.com/Asterionrio/Asterionrio/blob/main/IMG_5895.png" width="40" height="auto" style="display: block;"></a> 
+ <b>если вы используете или как-либо поддерживаете copytown-dni! не приемлю около себя маленьких воров чужого творчества. </b> 
+</div> 
+<div id="header" align="center">
 
 ---
 
