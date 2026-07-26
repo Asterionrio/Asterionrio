@@ -93,7 +93,6 @@
 <br clear="left"/>
 
 <img src="https://github.com/Asterionrio/Asterionrio/blob/main/IMG_5904.gif" alt="описание" align="right" style="float: right; margin: 0 0 15px 15px;" width="150">
-Этот текст будет находиться слева и красиво обтекать картинку справа. Картинка зафиксирована с правой стороны страницы.
 <p> музыка?.. мм.. 
   любимые исполнители:
   Mindless Self Indulgence, Электрофорез, Буерак, CENTIRISE, NASTYONA, And One, Mother Mother, Ghost and Pals, ЩЕНКИ, Иван Курочкин.
@@ -101,9 +100,9 @@
   просто достойные упомианния :
 Валентин Скрыкало, Self, the Smiths, depeche mode, London After Midnight, Boy Harsher, алена швец., Холодный звонок, Сова, ssshhhiiittt!, Fty,  la noom, KMFDM, Mitski, Vandalism, давай на ты, ночь. улица. фонарь., grimes, IAMX, osthen, юность грома, Molchat doma
 , Miracle Misical, мы, berenika, полярность, MARETU, UNSEEN TIDER, Ashbury Heights, mr.Kitty, Alec Koff, Дайте танк(!) IC3PEAK, DECO*27, </p>
-<br clear="right"/>
 
 из книг могу посоветовать только впечатляющую антиутопию IHNMAIMS.
+<br clear="right"/>
   </div>
 <div id="header" align="center">
 наше время почти подходит к концу, ты хочешь знать что-то еще ?
