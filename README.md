@@ -76,7 +76,7 @@
   я последний из вида сидериан. это больше проклятье чем привилегия. я медленно превращаюсь в космическую массу и никак не могу на это повлиять.
 
   
-  <img src="https://github.com/Asterionrio/Asterionrio/blob/main/IMG_5893.png" width="40" height="auto" style="display: block;"> istj-t melancholic sp5w4 (541) chaotic-evil 
+  <img src="https://github.com/Asterionrio/Asterionrio/blob/main/IMG_5893.png" width="40" height="auto" style="display: block;"> intp-t melancholic sp5w4 (541) chaotic-evil 
   
   <img src="https://github.com/Asterionrio/Asterionrio/blob/main/IMG_5893.png" width="40" height="auto" style="display: block;">  шрл (Шизоидное расстройство личности) в мягкой его форме.
   
