@@ -32,9 +32,8 @@
 
 `и покинуть мир навсегда, оставшись лишь воспоминанием, отголоской в пустотной массе космической ткани. `
 
-<img src="https://komarev.com/ghpvc/?username=Asterionrio&style=for-the-badge&color=5563D7" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Asterionrio&style=for-the-badge&color=9966ff&label=travelers_visited" alt="Profile Views"/>
 
- 
 
 <div id="header" align="center">
   <img src="https://github.com/Asterionrio/Asterionrio/blob/main/8E383268-50A3-455A-A1C4-D0B5D1EB6A67.gif" width="600"/>
