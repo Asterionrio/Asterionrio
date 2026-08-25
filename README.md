@@ -1,33 +1,24 @@
 <div id="header" align="center">
-    <a target="_blank" rel="noopener noreferrer" href=""><img src="https://github.com/Asterionrio/Asterionrio/blob/main/IMG_5895.png" width="40" height="auto" style="display: block;"></a> 
  <b>если вы используете или как-либо поддерживаете copytown-dni! не приемлю около себя маленьких воров чужого творчества. </b> 
 </div> 
 <div id="header" align="center">
 
 ---
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31z3giwhwxicvme7lblmd4m2uedq&cover_image=true&theme=novatorem&show_offline=true&background_color=643483&interchange=true&profanity=false&hide_remaster=false&bar_color=b782d3">
+<img align="left" width="200" src="Без названия143_20260825051420.png"> <a href="https://github.com/kittinan/spotify-github-profile"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31z3giwhwxicvme7lblmd4m2uedq&cover_image=true&theme=novatorem&show_offline=true&background_color=643483&interchange=true&profanity=false&hide_remaster=false&bar_color=b782d3"> 
   </a>
-</p>
+  welcome home, dear.
+  <details>
+<summary>dni</summary>
+
+`DO NOT INTERACY ME IF :`
+* [BASIC](https://dni-criteria.carrd.co/), ≤14 лет, те кто не слышит первых двух предупреждений, зануды\душнилы\"нормисы", "фанатики" игр хойо, полиамория, любовь к *сомнительным* пейрингам и шутки про них
+* исключения бывают но **маловероятны**, если только это не было моей инициативой изначально 
+
+</details>
+  <br clear="left"/>
+
 
 ---
-
-  <tr valign="middle">
-    <td>
-      <a target="_blank" rel="noopener noreferrer" href="">
-  <img src="https://github.com/Asterionrio/Asterionrio/blob/main/IMG_5893.png" width="40" height="auto" style="display: block;">
-      </a>
-    <td> >DNI :[ <a href="https://dni-criteria.carrd.co/">basic</a>] , нормисы , ярые фанаты гач (хойо в особенности) , меньше 14 лет , чсвшники , те кто не слышит первых 2 предупреждений , дети из подвала <a href="https://github.com/zefranar">Зефа</a> , фанаты пейринга Джозкарлы из Identity V , мультишипперы + люди пытающиеся втереть что полиаморния - нормально. нормализация вредных привычек , нормализация абьюза (и любовь к абьюз пейрам) <em> 
-      <details>
-<summary>pat-pat</summary>
-
-
-
-```python
-                     имейте ввиду - все ниже является приветствием от лица моего основного персонажа - Астериона
-```
-</details>
 
        
   <img src="https://github.com/Asterionrio/Asterionrio/blob/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F115_20260621082740.jpeg" width="400"/>
