@@ -8,7 +8,7 @@
   </a>
   welcome home, dear.
   <details>
-<summary>dni</summary>
+<summary><img src="tumblr_16f4f462be972a605d8ba5bf47e0a70a_45407b1e_75.webp" width="30" height="30" align="center">dni<img src="tumblr_c4aa1f966e50e829b9e5d0175d6a61b9_6a8450a7_75.webp" width="30" height="30" align="center"></summary>
 
 `DO NOT INTERACY ME IF :`
 * [BASIC](https://dni-criteria.carrd.co/), ≤14 лет, те кто не слышит первых двух предупреждений, зануды\душнилы\"нормисы", "фанатики" игр хойо, полиамория, любовь к *сомнительным* пейрингам и шутки про них
