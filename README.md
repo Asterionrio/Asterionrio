@@ -61,7 +61,7 @@ u look tired.
   
   <img src="IMG_6716.png" width="40" height="auto" style="display: block;"> я предпочитаю держаться рядом с семьей. 
  
-  <a href="https://github.com/dilleysky">Дилл</a>, <a href="https://github.com/hiessoovig">Хиесом</a> и  <a href="https://github.com/zefranar">Зефом</a>
+  <a href="https://github.com/drugslover">Дилл</a>, <a href="https://github.com/hiessoovig">Хиесом</a> и  <a href="https://github.com/zefranar">Зефом</a>
  
 или может 
 
