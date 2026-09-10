@@ -21,7 +21,7 @@
  
 ` c+h только для друзей и друзей друзей`
 
-` intp-t , melancholic , sp5w4 (514) , chaotic-evil , lfev`
+` intp-t , melancholic , sp/sx 5w4 (514) , chaotic-evil , lfev, Lii`
   <br clear="left"/>
 
 
