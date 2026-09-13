@@ -79,7 +79,7 @@ u look tired.
 
 <p> Наиболее примечательные для меня : 
  <img src="https://github.com/Asterionrio/Asterionrio/blob/main/IMG_5903.gif" alt="описание" align="left" style="float: left; margin: 0 15px 15px 0;" width="150">Identity V, Cookie Run: Kingdom, Reverse:1999, IHNMAIMS</p> <p> other games :</p> 
-<p>Zenless Zone Zero, Genshin Impact , Honkai: Star Rail, Mobile Ligends: Bang Bang, Terraria, brawl stars, slime rancher, stardew vallery, no im not a numan, dont starve classic\together, thats not my neighbor, 60 Seconds, Cult of the Lamb, Bendy and the Ink Machine, undertale,  Fran Bow,  S.T.A.L.K.E.R., Five Nights at Freddy's, OMORI,  Friday Night Funkin', Poppy Playtime.</p> </div>
+<p>Zenless Zone Zero, Genshin Impact , Honkai: Star Rail, Mobile Ligends: Bang Bang, Terraria, brawl stars, slime rancher, stardew vallery, no im not a human, dont starve classic\together, thats not my neighbor, 60 Seconds, Cult of the Lamb, Bendy and the Ink Machine, undertale,  Fran Bow,  S.T.A.L.K.E.R., Five Nights at Freddy's, OMORI,  Friday Night Funkin', Poppy Playtime.</p> </div>
 <br clear="left"/>
 
 <img src="https://github.com/Asterionrio/Asterionrio/blob/main/IMG_5904.gif" alt="описание" align="right" style="float: right; margin: 0 0 15px 15px;" width="150">
